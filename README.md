@@ -1,7 +1,7 @@
 # perehvatoff
-##Telegram bot writen on Node.js + telebot.js
+## Telegram bot writen on Node.js + telebot.js
 
-#Functionality:
+# Functionality:
 * random user from chat
 * BlackJack game
 * random map location
