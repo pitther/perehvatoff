@@ -1,9 +1,9 @@
 'use strict';
 
-let TelegramToken = "583270771:AAHdswdtpu3-_b5gi94vMbkEh-7YxNC6qd4";
+let TelegramToken = ":";
 
-const bot_telegram_id = 583270771;
-const my_telegram_chat_id = 267688141;
+const bot_telegram_id = ;
+const my_telegram_chat_id = ;
 
 const TeleBot = require('telebot');
 const bot = new TeleBot(TelegramToken);
