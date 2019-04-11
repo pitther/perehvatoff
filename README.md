@@ -1,4 +1,4 @@
-# Telegram bot writen on Node.js + telebot.js
+# Telegram bot written on Node.js + telebot.js
 
 # Functionality:
 * random user from chat
